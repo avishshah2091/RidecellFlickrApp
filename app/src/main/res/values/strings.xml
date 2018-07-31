@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RidecellFlickrApp</string>
+    <string name="title_imageitem_detail">ImageItem Detail</string>
+    <string name="network_error">Network Error \nPlease Enable Network and Retry</string>
+</resources>
